@@ -34,7 +34,7 @@ The **Currency Converter** app is a simple yet efficient Android application tha
 
 ## 📸 Demo Video
 
-(https://github.com/user-attachments/assets/84dcc704-770e-4f0b-9d9f-ff430dc115f9)
+https://github.com/user-attachments/assets/84dcc704-770e-4f0b-9d9f-ff430dc115f9
 
 
 
